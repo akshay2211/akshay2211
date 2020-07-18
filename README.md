@@ -1,5 +1,4 @@
- <a href="https://akshay2211.github.io/" rel="akshay2211">![](https://raw.githubusercontent.com/akshay2211/akshay2211.github.io/master/img/banner.jpg)</a>
-
+<a href="https://akshay2211.github.io/" rel="akshay2211">![](https://raw.githubusercontent.com/akshay2211/akshay2211.github.io/master/img/banner.jpg)</a>
 <!--
 **akshay2211/akshay2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p> <img src="https://github-readme-stats.vercel.app/api?username=akshay2211&show_icons=true" alt="akshay2211" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=akshay2211" alt="akshay2211" /> </p>
+
