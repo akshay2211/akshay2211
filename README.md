@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <p> <img src="https://github-readme-stats.vercel.app/api?username=akshay2211&show_icons=true" alt="akshay2211" /> </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=akshay2211" alt="akshay2211" /> </p>
 
+-->
