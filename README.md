@@ -4,6 +4,10 @@
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=akshay2211&theme=prussian&hide_border=true" />
 </p>
 
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=akshay2211&theme=react-dark)](https://git.io/akshay2211&hide_border=true)
+
+<br>
+
 
 <!--
 
