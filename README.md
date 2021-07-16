@@ -1,13 +1,9 @@
 <a href="https://akshay2211.github.io/" rel="akshay2211">![](https://raw.githubusercontent.com/akshay2211/akshay2211.github.io/master/img/banner.jpg)</a>
-<p align="center"><a href="https://gitstalk.netlify.app/akshay2211">Stalk me here</a><p>
-
-
 <p align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay2211&show_icons=true&theme=tokyonight&line_height=48" />
-   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay2211&count_private=true&theme=tokyonight">
-
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=akshay2211&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=akshay2211&theme=prussian&hide_border=true" />
 </p>
+
 
 <!--
 
