@@ -4,30 +4,10 @@
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=akshay2211&theme=prussian&hide_border=true" />
 </p>
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=akshay2211&theme=react-dark)](https://git.io/akshay2211&hide_border=true)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=akshay2211&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF&bg_color=172F45)](https://git.io/akshay2211&hide_border=true)
 
 <br>
 
+[**You like what you see? Then nominate me for GitHub Stars!**](https://stars.github.com/nominate/)<br/>
+[**or See my latest activities !**](https://gitstalk.netlify.app/akshay2211) 
 
-<!--
-
-**akshay2211/akshay2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  <img float=left href="https://www.credential.net/4095f258-88ff-4060-932b-da559f83a7dd" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24365991" alt="akshay2211" />
-<p align="left">
- 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=akshay2211&show_icons=true" alt="akshay2211" /> </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=akshay2211" alt="akshay2211" /> </p>
-
-
--->
