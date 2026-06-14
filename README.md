@@ -12,7 +12,7 @@
 </p>
 <br>-->
 
-![Stats](https://akshay2211.github.io/statsvg_rs/akshay2211.svg)
+![Lifetime stats](https://akshay2211.github.io/statsvg_rs/stats.svg)
 
 [**You like what you see? Then nominate me for GitHub Stars!**](https://stars.github.com/nominate/)<br/>
 [**See latest activities here!**](https://gitstalk.netlify.app/akshay2211) 
